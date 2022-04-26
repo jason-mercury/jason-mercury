@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jason-mercury
-- 👀 I’m interested in bikes, german cars, home projects, cooking, outdoors, music, 
-- 🌱 I’m currently learning ... guitar, xenoscaping, how to be be a better person everyday. 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in bikes, german cars, home projects, cooking, music.
+- 🌱 I’m currently learning ... guitar, xenoscaping, automotive electrical systems, how to be be a better person everyday. 
+- 💞️ I’m looking to collaborate on ... all the above. 
 - 📫 How to reach me jmercury@tenna.com, jsn.mercury@gmail.com
 
 <!---
